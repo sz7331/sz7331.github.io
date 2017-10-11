@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /poetry/
-title: poetry
-description: Showcase your writing, short stories, or poems. Replace this text with your description.
+title: now
+permalink: /now/
+description: Here's what I'm currently up to
 ---
 
 <ul class="post-list">
