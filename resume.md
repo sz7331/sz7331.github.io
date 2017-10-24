@@ -4,13 +4,12 @@ title: resume
 permalink: /resume/
 description:
 ---
-<plaintext>
+
 Stefan Victor Zaun
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 SUMMARY
-~~~~~~~~~~~~~~~~~~~~~~~~
-Former banker and recent graduate looking to help grow the self-development side of RSD. I want to leverage both my skills and ideas to make a contribution to the brand that keeps making life-changing impressions on young men.
+XXX
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 EXPERIENCE
