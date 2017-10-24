@@ -14,16 +14,14 @@ markdown: kramdown
 highlighter: rouge
 
 # Pagination
-paginate: 15
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 
-collections:
-  resume:
-    output: true
-    permalink: /resume/:path/
-  now:
-    output: true
-    permalink: /now/:path/
-
-
+#collections:
+#  resume:
+#    output: true
+#    permalink: /resume/:path/
+#  now:
+#    output: true
+#    permalink: /now/:path/

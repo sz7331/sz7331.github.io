@@ -5,11 +5,11 @@
 .site-header {
 border-bottom: 1px solid $grey-color-light;
 background-color: #fff;
-opacity: 0.75;
+opacity: 1;
 position:fixed;
 left:0px;
 top:0px;
-height:56px;
+height:$nav-height;
 width:100%;
 z-index: 50;
 }
@@ -55,7 +55,7 @@ display: line;
     position: relative;
     font-size: 20px;
     display: block;
-    opacity: 0.75;
+    opacity: 1;
     width: 100%;
     text-align: center;
     padding-top: 25px;
@@ -76,9 +76,9 @@ display: line;
 .site-footer {
 border-top: 1px solid $grey-color-dark;
 font-size: 10px;
-background-color: $grey-color-dark;
+background-color: #fff;
 padding: 2px;
-color: #aaa;
+color: white;
 position:fixed;
 left:0px;
 bottom:0px;
