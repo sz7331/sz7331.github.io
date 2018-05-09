@@ -21,11 +21,3 @@ Anyway, I think I'm gonna go through and apply for a few sales positions. Alread
 <br>
 
 [This is a now page](http://nownownow.com/about)
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
