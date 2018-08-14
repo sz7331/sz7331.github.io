@@ -8,7 +8,7 @@ description:
 
 <br>
 
-I'm still growing my [Sales as a Service business](hhttps://www.thefastlaneforum.com/community/threads/sales-as-a-service.77665/page-2#post-712893)
+I'm still growing my [Sales as a Service business](https://www.thefastlaneforum.com/community/threads/sales-as-a-service.77665/page-2#post-712893)
 
 Fortune has been very kind to me in that I can make a good living selling websites. But I'm ready for a new challenge. As you know, I've been thinking about getting more involved with both Enterprise Sales and Crypto for a while now. So I've decided to send out a handful of applications. Not sure what area I'll end up in, but in an ideal world I'll soon be part of an ambitious team of people to grow and build something together with. 
 
