@@ -20,7 +20,7 @@ Oh, and here's some German legalese my lawyer wants me to post:
 </p>
 <span style="unicode-bidi:bidi-override; direction: rtl;"><b>:tkatnoK</b></span>
 <p>
-<span style="unicode-bidi:bidi-override; direction: rtl;">moc.liamg@nuaz.nafets :liaM-E<br>76849353 751 94+ :nofeleT</span>
+<span style="unicode-bidi:bidi-override; direction: rtl;">moc.liamg@nuaz.nafets :liaM-E<br>9832508 871 94+ :nofeleT</span>
 </p>
 
 <b>Verantwortlich f&uuml;r den Inhalt nach &sect; 55 Abs. 2
